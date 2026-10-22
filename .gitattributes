@@ -1,0 +1,13 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.yml text eol=lf
+*.bat text eol=crlf
+*.sh text eol=lf
+*.toml text eol=lf
+*.in text eol=lf
+*.lock text eol=lf

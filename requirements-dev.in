@@ -1,0 +1,8 @@
+-r requirements.in
+ruff==0.17.1
+mypy==2.4.0
+pip-tools==7.6.2
+pytest-playwright==0.10.0
+jsbeautifier==2.0.3
+# pyee 14 requires Python 3.12; CI also supports Python 3.11.
+pyee==13.0.1
